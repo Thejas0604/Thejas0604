@@ -1,5 +1,5 @@
 # 💫 Hello There!!
-![gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![gif](https://raw.githubusercontent.com/Thejas0604/Thejas0604/master/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 🌱 I’m currently learning Full Stack Web Development.<br>💬 Ask me about anything you want. I'll be happy to talk.<br>⚡ Fun fact : I don't know you tell me.
 
