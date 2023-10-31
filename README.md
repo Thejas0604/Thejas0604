@@ -28,9 +28,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Thejas0604&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 ### 🏆 HOLOPIN Board
 [![An image of @thejas0604's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thejas0604)](https://holopin.io/@thejas0604)
