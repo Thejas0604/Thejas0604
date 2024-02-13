@@ -2,7 +2,7 @@
 ![gif](https://raw.githubusercontent.com/Thejas0604/Thejas0604/master/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ![](https://komarev.com/ghpvc/?username=thejas0604)
 
-🌱 I’m currently learning Full Stack Web Development.<br>💬 Ask me about anything you want. I'll be happy to talk.<br>⚡ Fun fact : I don't know you tell me.
+🌱 I’m currently learning Cyber Security.<br>💬 Ask me about anything you want. I'll be happy to talk.<br>⚡ Fun fact : I don't know you tell me.
 
 
 ---
